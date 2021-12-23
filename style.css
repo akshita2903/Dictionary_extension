@@ -76,7 +76,7 @@ border-radius: 2px;
     
   }
    .synonyms span{
-    cursor: pointer;
+    /* cursor: pointer; */
     word-wrap: break-word;
   text-decoration: underline;
     color:#090b50;

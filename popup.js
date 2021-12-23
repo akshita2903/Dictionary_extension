@@ -52,9 +52,10 @@ else{
 {
    let sy=data.synonyms[i];
    x=`<span onClick="search_synon_mean('${sy}')">${sy}</span>`+","+x;
- 
+ //x=`<span>${sy}</span>`+","+x;
 }
 x=x+`<span onClick="search_synon_mean('${data.synonyms[4]}')">${data.synonyms[4]}</span>`
+//x=`<span>${data.synonyms[4]}</span>`+","+x;
 synonyms.innerHTML=x;
 
 //console.log(x);
