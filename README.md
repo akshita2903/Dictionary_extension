@@ -58,4 +58,5 @@ git checkout -b <your_branch_name>
 
 Extension has been enabled.
 # OUTPUT
-<video src="images/output.mp4"></video>
+<video>
+<source src="images/ouput.mp4" type="video/mp4"></video>
