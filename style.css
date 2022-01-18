@@ -12,11 +12,11 @@ body{
     width:250px;
     background: #fff;
     border-radius: 7px;
-    padding: 15px 25px 30px;
+    padding: 10px 10px 15px;
 }
 .wrap header{
     font-weight: 200;
-    text-align: center;
+    text-align: left;
     text-decoration: underline;
     color:rgb(25, 9, 94);
 }
@@ -24,21 +24,14 @@ body{
 margin:15px 0 10px;
 }
 .search input{
-height:30px;
+height:20px;
 width:auto;
 outline:none;
-font-size: 16px;
+font-size: 15px;
 /* padding:0 25px; */
-padding:0  30px;
+padding:0  15px;
 border:1px solid #333;
 border-radius: 2px;
-}
-/* icons */
-.search :where(span){
-    position: absolute;
-  top:17%;
-    color:blue;
-    transform: translate(-50%);
 }
 
 
@@ -49,23 +42,23 @@ border-radius: 2px;
 .wrap ul li{
     display: flex;
     list-style: none;
-    margin-bottom: 6px;
+    margin-bottom: 3px;
     align-items: center;
-    padding-bottom: 2px;
+    padding-bottom: 1px;
     border-bottom: 1px solid #634de4;
     justify-content: space-between;
  
 }
 .wrapper .itext{
-  font-size: 13px;
+  font-size: 12px;
   color: #2125d8;
-  margin: -3px 0 -10px;
+  margin: -2px 0 -9px;
 }
 .wrapper.active .itext{
   display: none;
 }
 .content li span{
-    font-size: 15px;
+    font-size: 14px;
     color:#090b50;
   }
    .synonyms .list{
