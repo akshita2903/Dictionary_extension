@@ -1,7 +1,14 @@
 # Dictionary_Extension
 It is a chrome extension where you can type any word and get its meaning as well as its pronunciation with other synonyms.
+
+# OUTPUT
+
+
+https://user-images.githubusercontent.com/68686051/178509887-bbec0129-cdf2-4c66-baa9-2ccad61c3436.mp4
+
+
 # To enable extension on your google chrome 
-** Ignore/Delete the Chrome Extension folder and images folder if get cloned to your local computer
+Ignore/Delete the Chrome Extension folder and images folder if get cloned to your local computer
 
 **1.**  Fork [this](https://github.com/akshita2903/Dictionary_extension) repository 
 
@@ -57,9 +64,6 @@ git checkout -b <your_branch_name>
 **5.** Upload the folder that contains this forked repository.
 
 Extension has been enabled.
-# OUTPUT
 
-
-https://user-images.githubusercontent.com/68686051/178509887-bbec0129-cdf2-4c66-baa9-2ccad61c3436.mp4
 
 
