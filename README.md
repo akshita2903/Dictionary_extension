@@ -58,4 +58,4 @@ git checkout -b <your_branch_name>
 
 Extension has been enabled.
 # OUTPUT
-![Demo](https://github.com/akshita2903/Dictionary_extension/master/images/output.mp4)
+![Demo](dictionary.mkv)
